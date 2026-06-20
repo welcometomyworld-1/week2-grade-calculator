@@ -16,4 +16,4 @@ A comprehensive Python application that processes multiple students, calculates 
 python grade_calculator.py
 
 ## Author
-Sushant Kumar Gupta
+Sushant Kumar
